@@ -1,3 +1,12 @@
+title: Improved Diffusion
+emoji: 😻
+colorFrom: red
+colorTo: gray
+sdk: gradio
+sdk_version: 3.23.0
+app_file: app.py
+pinned: false
+
 # improved-diffusion
 
 This is the codebase for [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672).
